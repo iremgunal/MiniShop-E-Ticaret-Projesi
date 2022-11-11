@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ROZk+DJ3tdyICUYN/N/fVNGaJ+a7aH33ra32kbsDTZ3MuCRqlHOlrhTcBXzvmZXSx84Gsd4tkdl7vl3cM5gyDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irem\\Desktop\\Dersler\\Week13\\20-10-2022\\MiniShop\\MiniShop.Core\\MiniShop.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irem\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\irem\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\irem\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\irem\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
