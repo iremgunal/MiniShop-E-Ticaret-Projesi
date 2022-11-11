@@ -1,0 +1,2 @@
+# MiniShop E-Ticaret Projesi
+ 
